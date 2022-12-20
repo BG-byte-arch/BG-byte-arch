@@ -8922,5 +8922,6 @@ let suggestions = [
 'Đèn LED Downlight đổi màu AT10 110/12W (G) SS',
 'Đèn LED Downlight đổi màu AT20 110/10W (G)',
 'Đèn LED Downlight đổi màu AT20 110/12W (G)',
-'Pas giường tai thỏ71x90x16x31 bảy màu'
+'Pas giường tai thỏ71x90x16x31 bảy màu',
+'Cách gỡ keo 502'
 ];
