@@ -1,0 +1,34 @@
+/*==Style cho menu===*/
+#menu2 ul {
+    background:#ff8000;
+    text-align: center;
+}
+#menu2 li {
+    color: #ff8000;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -4px;
+}
+#menu2 a {
+    text-decoration:none;
+    color: #000000;
+    display: inline-block;
+}
+#menu2 a:hover {
+    background:#ff8c19;
+    color: #333;
+}
+
+/*==Dropdown Menu==*/
+.sub-menu2 {
+    display: none;
+    position: absolute;
+}
+#menu2 li:hover .sub-menu {
+    display: block;
+}
+.sub-menu2 li {
+    margin-left: 0 !important;
+}
