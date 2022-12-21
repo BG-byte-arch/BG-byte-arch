@@ -1,4 +1,8 @@
 /*==Style cho menu===*/
+#menu2 {
+    background-color:#ff8000
+}
+
 #menu2 ul {
     background:#ff8000;
     text-align: center;
